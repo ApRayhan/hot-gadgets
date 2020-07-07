@@ -1,0 +1,145 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Poppins';
+}
+
+.container {
+  margin-top: 15px;
+  margin-top: 20px;
+}
+
+.nav_bar img {
+  width: 125px;
+  height: 50px;
+}
+
+.navbar-nav .nav-link {
+  color: #707070;
+  font-size: 16px
+}
+
+.carousel-indicators .active {
+  opacity: 1;
+  background-color: #FF9C35;
+  width: 20px;
+  height: 5px;
+}
+
+.carousel-indicators li {
+  background-color: #CECECE;
+  border-radius: 45% !important;
+  width: 8px;
+  height: 4px;
+}
+
+.slider {
+  background-image: url('images/bg-1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.slider h5 {
+  color: #1F1F1F;
+  font-size: 38px;
+  text-align: left;
+}
+
+.slider p {
+  color: #707070;
+  font-size: 14px;
+  text-align: left;
+}
+
+.slider img {
+  width: 90% !important;
+}
+
+
+
+.buy_now_btn {
+  background: #212121;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  padding: 4px 13px;
+  float: left;
+}
+
+.intro {
+  position: relative;
+  top: 80px;
+  padding: 5px 50px;
+}
+
+.all_smartphone img {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.all_smartphone {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.all_smartphone .card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgrey;
+  padding: 15px 15px;
+  height: 420px;
+  border-radius: 5px;
+}
+
+.price {
+  margin-bottom: 15px;
+}
+
+.seeall {
+  color: #FF9C35;
+  position: relative;
+  top: -10px;
+}
+
+
+.categories {
+  margin-top: 100px;
+}
+
+.cat-left {
+  margin-top: 100px;
+}
+
+.perfume,
+.shoe,
+.bag {
+  box-shadow: 5px 5px 10px lightgrey;
+  width: 190px;
+  text-align: center;
+  padding: 10px 10px;
+}
+
+.perfume,
+.shoe {
+  border-radius: 20px 0px 20px 0px;
+}
+
+.bag {
+  border-radius: 0px 20px 0px 20px;
+  margin-left: 65px;
+}
+
+.c_heading {
+  text-align: center;
+}
+
+.c_heading hr {
+  width: 8%;
+  height: 5px;
+  background: linear-gradient(90deg, rgba(255, 156, 53, 1) 0%, rgba(255, 208, 25, 1) 100%);
+  border-radius: 10px;
+}
+
+.pale img {
+  width: 100%;
+  margin-top: 100px;
+}
